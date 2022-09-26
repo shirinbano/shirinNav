@@ -1,0 +1,27 @@
+{
+  "name": "shirin-navbar",
+  "version": "1.0.0",
+  "description": "simple navbar",
+  "main": "Header.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shirinbano/shirin-navbar.git"
+  },
+  "keywords": [
+    "navbar",
+    "header"
+  ],
+  "author": "shirinbanoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shirinbano/shirin-navbar/issues"
+  },
+  "homepage": "https://github.com/shirinbano/shirin-navbar#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.5.0"
+  }
+}
